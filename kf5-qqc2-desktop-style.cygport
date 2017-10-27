@@ -1,0 +1,12 @@
+inherit kf5
+
+NAME="kf5-qqc2-desktop-style"
+VERSION=5.39.0
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE style for QML applications"
+DESCRIPTION="This is a style for QtQuickControls 2 that uses QWidget QStyle
+for painting, making possible to achieve an higher deree of consistency
+between QWidget-based and QML-based apps."
+
+REQUIRES="qt5-quickcontrols2"
