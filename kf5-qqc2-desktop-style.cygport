@@ -1,7 +1,7 @@
 inherit kf5
 
 NAME="kf5-qqc2-desktop-style"
-VERSION=5.39.0
+VERSION=5.43.0
 RELEASE=1
 CATEGORY="KDE"
 SUMMARY="KDE style for QML applications"
